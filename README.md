@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     XYRONIX STUDIOS — README                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+ 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Xyronix+Studios;The+Jubatus+Project;JPS-64+%E2%80%A2+Jubatus+Jedi;Built+by+Eren+Mut" alt="Typing SVG" />
